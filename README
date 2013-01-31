@@ -1,0 +1,12 @@
+This repository has two exercises which are implemented in c++. It also contains a tweet_input_txt file,
+used as a test input file of UniqueUrls.cpp exercise.
+
+1. UniqueUrls.cpp
+	This exercise uses two input parameters:
+		1. First one command line string parameter named as hashtag
+		2. Second one is command line string parameter representing filename of input stream
+		   (As an example: "tweet_stream_txt" as a input file)
+2. FindDuplicate.cpp
+	This exercise does not take input from terminal. It has been tested for various inputs
+	including base cases like "no input", "one element only", "multiple element",
+	"multiple element in different order" etc.
